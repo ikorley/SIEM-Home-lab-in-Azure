@@ -1,6 +1,6 @@
 <h1>Security Incident Event Management Lab in Azure</h1>
 
- ### [YouTube Demonstration](https://youtu.be/dyM6UGGekhI)
+ ### [YouTube Demonstration]()
 
 <h2>Description</h2>
 In this video I demonstrate how to set up active directory, create accounts with powershell and setup remote access sever.
