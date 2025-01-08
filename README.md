@@ -94,6 +94,8 @@ To conclude, through the setup of the virtual machine in Azure portal and levera
 I was succesffuly able to track and visualise attempted attacks on the system. By exporting the data into Sentinel, I identified key 
 attack vectors and pinpointed the geographic locations from where the attack originated. Utilizing Azure Mitre Framework, I mapped these 
 to specific tactics and techniques revealing that the system is vulnerable to techniques T1110 (BRUTE FORCE) and T1531 (Account Access Removal)
+<img src="https://i.imgur.com/BCQdhRz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iTbrvXm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
 This analysis highlights the importance of proactive monitoring and vulnerability management in cloud environments, 
