@@ -1,21 +1,20 @@
 <h1>Security Incident Event Management Lab in Azure</h1>
 
- ### [YouTube Demonstration]()
+<h2>Project Description</h2>
+In this project, I set up a microsoft Azure Sentinel a SIEM tool to recieve logs from a cloud based Virtual Machine with its firewall purposely turned off making it vulnerable to attacks. We monitor failed login attempts to the server by collecting different IP addresses accross the globe. The extracted Ip addresses is then mapped to visualise all incoming attacks.
 
-<h2>Description</h2>
-In this video I demonstrate how to set up active directory, create accounts with powershell and setup remote access sever.
+
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Azure Portal</b>
+- <b>Azure Sentinel</b>
+- <b>Kusto Query Language</b>
+- <b>Network Security groups</b>
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-- <b>Windows Server 2019</b>
   
 <h2>Program walk-through:</h2>
 
